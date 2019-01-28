@@ -1,0 +1,1084 @@
+--------Top 10 accuracies: --------
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : True
+remove urls : True
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 183.247s
+Test time:  1.556s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.670
+Recall:   0.673
+F_measure:   0.671
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : True
+remove punctuation : True
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 182.408s
+Test time:  1.965s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.659
+Recall:   0.678
+F_measure:   0.665
+Weighted-average metrics: 
+Precision:   0.662
+Recall:   0.667
+F_measure:   0.662
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 182.809s
+Test time:  1.772s
+
+Accuracy:   0.669
+Micro-averaged metrics: 
+Precision:   0.669
+Recall:   0.669
+F_measure:   0.669
+Macro-averaged metrics: 
+Precision:   0.671
+Recall:   0.667
+F_measure:   0.669
+Weighted-average metrics: 
+Precision:   0.666
+Recall:   0.669
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 181.888s
+Test time:  1.732s
+
+Accuracy:   0.670
+Micro-averaged metrics: 
+Precision:   0.670
+Recall:   0.670
+F_measure:   0.670
+Macro-averaged metrics: 
+Precision:   0.675
+Recall:   0.679
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.670
+F_measure:   0.669
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : entire_expression
+Feature extraction + training time: 186.525s
+Test time:  1.898s
+
+Accuracy:   0.670
+Micro-averaged metrics: 
+Precision:   0.670
+Recall:   0.670
+F_measure:   0.670
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.677
+F_measure:   0.674
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.670
+F_measure:   0.668
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : True
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 178.148s
+Test time:  0.922s
+
+Accuracy:   0.671
+Micro-averaged metrics: 
+Precision:   0.671
+Recall:   0.671
+F_measure:   0.671
+Macro-averaged metrics: 
+Precision:   0.669
+Recall:   0.674
+F_measure:   0.669
+Weighted-average metrics: 
+Precision:   0.665
+Recall:   0.671
+F_measure:   0.665
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : True
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 181.744s
+Test time:  1.786s
+
+Accuracy:   0.673
+Micro-averaged metrics: 
+Precision:   0.673
+Recall:   0.673
+F_measure:   0.673
+Macro-averaged metrics: 
+Precision:   0.674
+Recall:   0.669
+F_measure:   0.670
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.673
+F_measure:   0.669
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 183.237s
+Test time:  2.046s
+
+Accuracy:   0.673
+Micro-averaged metrics: 
+Precision:   0.673
+Recall:   0.673
+F_measure:   0.673
+Macro-averaged metrics: 
+Precision:   0.676
+Recall:   0.681
+F_measure:   0.678
+Weighted-average metrics: 
+Precision:   0.671
+Recall:   0.673
+F_measure:   0.672
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 181.197s
+Test time:  0.978s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.680
+Recall:   0.677
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.677
+Recall:   0.674
+F_measure:   0.676
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : True
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 180.201s
+Test time:  1.149s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.688
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.673
+Recall:   0.674
+F_measure:   0.673
+--------Top 10 precisions: --------
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 178.767s
+Test time:  0.859s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.656
+Recall:   0.690
+F_measure:   0.666
+Weighted-average metrics: 
+Precision:   0.672
+Recall:   0.667
+F_measure:   0.665
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : False
+remove stop words : True
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 173.360s
+Test time:  0.631s
+
+Accuracy:   0.658
+Micro-averaged metrics: 
+Precision:   0.658
+Recall:   0.658
+F_measure:   0.658
+Macro-averaged metrics: 
+Precision:   0.673
+Recall:   0.665
+F_measure:   0.668
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.658
+F_measure:   0.661
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 183.792s
+Test time:  0.937s
+
+Accuracy:   0.649
+Micro-averaged metrics: 
+Precision:   0.649
+Recall:   0.649
+F_measure:   0.649
+Macro-averaged metrics: 
+Precision:   0.673
+Recall:   0.659
+F_measure:   0.661
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.649
+F_measure:   0.654
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : True
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 181.744s
+Test time:  1.786s
+
+Accuracy:   0.673
+Micro-averaged metrics: 
+Precision:   0.673
+Recall:   0.673
+F_measure:   0.673
+Macro-averaged metrics: 
+Precision:   0.674
+Recall:   0.669
+F_measure:   0.670
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.673
+F_measure:   0.669
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : True
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 180.201s
+Test time:  1.149s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.688
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.673
+Recall:   0.674
+F_measure:   0.673
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 182.955s
+Test time:  1.847s
+
+Accuracy:   0.664
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.664
+F_measure:   0.664
+Macro-averaged metrics: 
+Precision:   0.674
+Recall:   0.681
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.674
+Recall:   0.664
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 181.888s
+Test time:  1.732s
+
+Accuracy:   0.670
+Micro-averaged metrics: 
+Precision:   0.670
+Recall:   0.670
+F_measure:   0.670
+Macro-averaged metrics: 
+Precision:   0.675
+Recall:   0.679
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.670
+F_measure:   0.669
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 183.237s
+Test time:  2.046s
+
+Accuracy:   0.673
+Micro-averaged metrics: 
+Precision:   0.673
+Recall:   0.673
+F_measure:   0.673
+Macro-averaged metrics: 
+Precision:   0.676
+Recall:   0.681
+F_measure:   0.678
+Weighted-average metrics: 
+Precision:   0.671
+Recall:   0.673
+F_measure:   0.672
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : False
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 178.924s
+Test time:  1.406s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.676
+Recall:   0.675
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.667
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 181.197s
+Test time:  0.978s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.680
+Recall:   0.677
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.677
+Recall:   0.674
+F_measure:   0.676
+--------Top 10 recalls: --------
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 176.466s
+Test time:  1.303s
+
+Accuracy:   0.665
+Micro-averaged metrics: 
+Precision:   0.665
+Recall:   0.665
+F_measure:   0.665
+Macro-averaged metrics: 
+Precision:   0.669
+Recall:   0.680
+F_measure:   0.674
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.665
+F_measure:   0.666
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : False
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : entire_expression
+Feature extraction + training time: 174.374s
+Test time:  0.528s
+
+Accuracy:   0.665
+Micro-averaged metrics: 
+Precision:   0.665
+Recall:   0.665
+F_measure:   0.665
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.681
+F_measure:   0.675
+Weighted-average metrics: 
+Precision:   0.670
+Recall:   0.665
+F_measure:   0.666
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 182.955s
+Test time:  1.847s
+
+Accuracy:   0.664
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.664
+F_measure:   0.664
+Macro-averaged metrics: 
+Precision:   0.674
+Recall:   0.681
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.674
+Recall:   0.664
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 178.381s
+Test time:  1.292s
+
+Accuracy:   0.655
+Micro-averaged metrics: 
+Precision:   0.655
+Recall:   0.655
+F_measure:   0.655
+Macro-averaged metrics: 
+Precision:   0.656
+Recall:   0.681
+F_measure:   0.664
+Weighted-average metrics: 
+Precision:   0.665
+Recall:   0.655
+F_measure:   0.655
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 181.788s
+Test time:  1.133s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.667
+Recall:   0.681
+F_measure:   0.673
+Weighted-average metrics: 
+Precision:   0.670
+Recall:   0.667
+F_measure:   0.668
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 181.465s
+Test time:  1.165s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.665
+Recall:   0.681
+F_measure:   0.672
+Weighted-average metrics: 
+Precision:   0.666
+Recall:   0.667
+F_measure:   0.666
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 183.237s
+Test time:  2.046s
+
+Accuracy:   0.673
+Micro-averaged metrics: 
+Precision:   0.673
+Recall:   0.673
+F_measure:   0.673
+Macro-averaged metrics: 
+Precision:   0.676
+Recall:   0.681
+F_measure:   0.678
+Weighted-average metrics: 
+Precision:   0.671
+Recall:   0.673
+F_measure:   0.672
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : False
+remove urls : True
+remove punctuation : True
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 183.969s
+Test time:  1.397s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.663
+Recall:   0.682
+F_measure:   0.671
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.666
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : True
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 180.201s
+Test time:  1.149s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.688
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.673
+Recall:   0.674
+F_measure:   0.673
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 178.767s
+Test time:  0.859s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.656
+Recall:   0.690
+F_measure:   0.666
+Weighted-average metrics: 
+Precision:   0.672
+Recall:   0.667
+F_measure:   0.665
+--------Top 10 f-measures: --------
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 181.788s
+Test time:  1.133s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.667
+Recall:   0.681
+F_measure:   0.673
+Weighted-average metrics: 
+Precision:   0.670
+Recall:   0.667
+F_measure:   0.668
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 176.466s
+Test time:  1.303s
+
+Accuracy:   0.665
+Micro-averaged metrics: 
+Precision:   0.665
+Recall:   0.665
+F_measure:   0.665
+Macro-averaged metrics: 
+Precision:   0.669
+Recall:   0.680
+F_measure:   0.674
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.665
+F_measure:   0.666
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : entire_expression
+Feature extraction + training time: 186.525s
+Test time:  1.898s
+
+Accuracy:   0.670
+Micro-averaged metrics: 
+Precision:   0.670
+Recall:   0.670
+F_measure:   0.670
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.677
+F_measure:   0.674
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.670
+F_measure:   0.668
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : False
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : entire_expression
+Feature extraction + training time: 174.374s
+Test time:  0.528s
+
+Accuracy:   0.665
+Micro-averaged metrics: 
+Precision:   0.665
+Recall:   0.665
+F_measure:   0.665
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.681
+F_measure:   0.675
+Weighted-average metrics: 
+Precision:   0.670
+Recall:   0.665
+F_measure:   0.666
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : False
+remove stop words : False
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 178.924s
+Test time:  1.406s
+
+Accuracy:   0.667
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.667
+F_measure:   0.667
+Macro-averaged metrics: 
+Precision:   0.676
+Recall:   0.675
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.668
+Recall:   0.667
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 182.955s
+Test time:  1.847s
+
+Accuracy:   0.664
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.664
+F_measure:   0.664
+Macro-averaged metrics: 
+Precision:   0.674
+Recall:   0.681
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.674
+Recall:   0.664
+F_measure:   0.667
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 181.888s
+Test time:  1.732s
+
+Accuracy:   0.670
+Micro-averaged metrics: 
+Precision:   0.670
+Recall:   0.670
+F_measure:   0.670
+Macro-averaged metrics: 
+Precision:   0.675
+Recall:   0.679
+F_measure:   0.676
+Weighted-average metrics: 
+Precision:   0.667
+Recall:   0.670
+F_measure:   0.669
+
+
+Preprocessing parameters:
+
+lower : True
+stemming : True
+remove stop words : False
+remove urls : True
+remove punctuation : False
+remove hashtags : only_symbol
+remove ats : none
+Feature extraction + training time: 183.237s
+Test time:  2.046s
+
+Accuracy:   0.673
+Micro-averaged metrics: 
+Precision:   0.673
+Recall:   0.673
+F_measure:   0.673
+Macro-averaged metrics: 
+Precision:   0.676
+Recall:   0.681
+F_measure:   0.678
+Weighted-average metrics: 
+Precision:   0.671
+Recall:   0.673
+F_measure:   0.672
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : False
+remove urls : False
+remove punctuation : False
+remove hashtags : none
+remove ats : entire_expression
+Feature extraction + training time: 181.197s
+Test time:  0.978s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.680
+Recall:   0.677
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.677
+Recall:   0.674
+F_measure:   0.676
+
+
+Preprocessing parameters:
+
+lower : False
+stemming : True
+remove stop words : True
+remove urls : True
+remove punctuation : False
+remove hashtags : none
+remove ats : none
+Feature extraction + training time: 180.201s
+Test time:  1.149s
+
+Accuracy:   0.674
+Micro-averaged metrics: 
+Precision:   0.674
+Recall:   0.674
+F_measure:   0.674
+Macro-averaged metrics: 
+Precision:   0.672
+Recall:   0.688
+F_measure:   0.679
+Weighted-average metrics: 
+Precision:   0.673
+Recall:   0.674
+F_measure:   0.673
